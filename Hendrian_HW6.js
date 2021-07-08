@@ -245,6 +245,12 @@ $("#clear-history").click(function() {
     $("#futureHumidity3").empty();
     $("#futureHumidity4").empty();
     $("#futureHumidity5").empty();
+    
+    $("#futureIcon1").empty();
+    $("#futureIcon2").empty();
+    $("#futureIcon3").empty();
+    $("#futureIcon4").empty();
+    $("#futureIcon5").empty();
 });
 
 //TO-DO 
